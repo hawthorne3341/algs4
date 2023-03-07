@@ -12,9 +12,9 @@ https://lift.cs.princeton.edu/java/linux/
 You will then need to download the project files for the problem for which you would like to run my implementation.
 The download link is marked 'Project' and can be found at the top righthand of the specification page for the project.
 
-Percolation - https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php
-Queues - https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php
-Collinear Points - https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php
-8 Puzzle - https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php
-Kd trees - https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php
+Percolation - https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php \
+Queues - https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php \
+Collinear Points - https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php \
+8 Puzzle - https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php \
+Kd trees - https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php \
 
