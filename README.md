@@ -16,5 +16,5 @@ Percolation - https://coursera.cs.princeton.edu/algs4/assignments/percolation/sp
 Queues - https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php
 Collinear Points - https://coursera.cs.princeton.edu/algs4/assignments/collinear/specification.php
 8 Puzzle - https://coursera.cs.princeton.edu/algs4/assignments/8puzzle/specification.php
-Kd trees - pending implementation
+Kd trees - https://coursera.cs.princeton.edu/algs4/assignments/kdtree/specification.php
 
